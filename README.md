@@ -1,6 +1,4 @@
-حسناً، لتجنب أي التباس وتسهيلاً لعملية النسخ، إليك محتوى ملف `README.md` كاملاً داخل قالب برمجي أسود. يمكنك نسخه ولصقه مباشرة:
 
-```markdown
 # ⚡ SignalsLab Workspace
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
@@ -82,4 +80,3 @@ npm run dev
 
 ```
 
-```
