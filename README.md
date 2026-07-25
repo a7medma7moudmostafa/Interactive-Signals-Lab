@@ -25,43 +25,55 @@ The core motivation behind this project was to transform abstract theoretical fo
 - **Math.js** - Advanced mathematical expression parser and evaluator
 - **Recharts** - Responsive charting and data visualization
 
-## 🚀 Getting Started
+## 🚀 Getting Started (Local Development)
 
-To get a local copy up and running, follow these simple steps.
+To run the project locally on your machine, follow these steps:
 
-### Prerequisites
-- Node.js
-- npm (or yarn)
-
-### Installation
-
-1. Clone the repository
+1. Clone the repository:
    ```bash
    git clone [https://github.com/YourUsername/SignalsLab.git](https://github.com/YourUsername/SignalsLab.git)
 
 ```
 
-2. Navigate to the project directory
+2. Navigate to the project directory:
 ```bash
 cd SignalsLab
 
 ```
 
 
-3. Install NPM packages
+3. Install NPM packages:
 ```bash
 npm install
 
 ```
 
 
-4. Start the development server
+4. Start the development server:
 ```bash
 npm run dev
 
 ```
 
 
+
+## 🌐 Deployment (Manual GitHub Pages Workflow)
+
+This project is deployed using a manual build process. To push updates to the live site, follow this workflow:
+
+1. Make your desired code changes within the `src` directory.
+2. Build the production-ready files:
+```bash
+npm run build
+
+```
+
+
+3. Navigate to your GitHub repository in the browser.
+4. Click **Add file** > **Upload files**.
+5. Drag and drop all the contents **inside** the newly generated `dist` folder directly into the repository, overwriting the old files.
+6. Click **Commit changes**.
+7. Perform a hard refresh (`Ctrl + F5`) on the live GitHub Pages URL to view the updates.
 
 ## 🗺️ Roadmap (Version 2 Ideas)
 
@@ -71,13 +83,9 @@ npm run dev
 
 ## 👨‍💻 Developer
 
-**Ahmed**
+**Ahmad**
 *Electrical Engineering Student (Communications Major)*
 
 * **Email:** ahmedaboabbas1@gmail.com
-* **WhatsApp:** [+201093358794](https://wa.me/201093358794)
-* **LinkedIn:** [Ahmed's LinkedIn](https://linkedin.com/in/yourprofile) 
-
-```
-
-```
+* **WhatsApp:** [+201093358794](https://www.google.com/search?q=https://wa.me/201093358794)
+* **LinkedIn:** [Ahmad's LinkedIn](https://linkedin.com/in/yourprofile)
